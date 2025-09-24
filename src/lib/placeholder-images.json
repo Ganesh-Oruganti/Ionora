@@ -1,0 +1,293 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "ionora-hero",
+      "description": "A glass of clean, bubbly water held up to the light.",
+      "imageUrl": "https://i.postimg.cc/gcV775HY/9f1003de-da6a-4e6d-aecb-4f309d6e5684.jpg",
+      "imageHint": "water glass"
+    },
+    {
+      "id": "product-1",
+      "description": "Sleek countertop water ionizer model.",
+      "imageUrl": "https://picsum.photos/seed/p1/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-2",
+      "description": "Under-counter water ionizer with a modern faucet.",
+      "imageUrl": "https://picsum.photos/seed/p2/400/250",
+      "imageHint": "kitchen faucet"
+    },
+    {
+      "id": "product-3",
+      "description": "Portable hydrogen water bottle.",
+      "imageUrl": "https://picsum.photos/seed/p3/400/250",
+      "imageHint": "water bottle"
+    },
+    {
+      "id": "product-4",
+      "description": "Enagic K8 water ionizer on a kitchen counter.",
+      "imageUrl": "https://picsum.photos/seed/p4/400/250",
+      "imageHint": "water filter"
+    },
+    {
+      "id": "product-5",
+      "description": "Alkamedi 3000S ionizer.",
+      "imageUrl": "https://picsum.photos/seed/p5/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-6",
+      "description": "ZeroB Eco-Ionizer in a kitchen setting.",
+      "imageUrl": "https://picsum.photos/seed/p6/400/250",
+      "imageHint": "water purifier"
+    },
+    {
+      "id": "product-7",
+      "description": "Medisoul Genesis Plus machine.",
+      "imageUrl": "https://picsum.photos/seed/p7/400/250",
+      "imageHint": "water filter"
+    },
+    {
+      "id": "product-8",
+      "description": "Life Ionizer M13 with a glass of water.",
+      "imageUrl": "https://picsum.photos/seed/p8/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-9",
+      "description": "Aqua-Ionizer Pro 7.5 on a counter.",
+      "imageUrl": "https://picsum.photos/seed/p9/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-10",
+      "description": "Tyent ACE-13 above-counter ionizer.",
+      "imageUrl": "https://picsum.photos/seed/p10/400/250",
+      "imageHint": "water filter"
+    },
+    {
+      "id": "product-11",
+      "description": "Enagic Leveluk SD501 machine.",
+      "imageUrl": "https://picsum.photos/seed/p11/400/250",
+      "imageHint": "water purifier"
+    },
+    {
+      "id": "product-12",
+      "description": "Alkamedi 5000 ionizer in a modern kitchen.",
+      "imageUrl": "https://picsum.photos/seed/p12/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-13",
+      "description": "Life Ionizer M9 with a pitcher.",
+      "imageUrl": "https://picsum.photos/seed/p13/400/250",
+      "imageHint": "water filter"
+    },
+    {
+      "id": "product-14",
+      "description": "ZeroB Ion-Max device.",
+      "imageUrl": "https://picsum.photos/seed/p14/400/250",
+      "imageHint": "water purifier"
+    },
+    {
+      "id": "product-15",
+      "description": "Medisoul Aqua Prime ionizer.",
+      "imageUrl": "https://picsum.photos/seed/p15/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-16",
+      "description": "KYK Harmony ionizer on a tabletop.",
+      "imageUrl": "https://picsum.photos/seed/p16/400/250",
+      "imageHint": "water filter"
+    },
+    {
+      "id": "product-17",
+      "description": "Tyent Edge 9000T countertop model.",
+      "imageUrl": "https://picsum.photos/seed/p17/400/250",
+      "imageHint": "kitchen appliance"
+    },
+    {
+      "id": "product-18",
+      "description": "Enagic JRIV machine.",
+      "imageUrl": "https://picsum.photos/seed/p18/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-19",
+      "description": "Life Ionizer M5 model.",
+      "imageUrl": "https://picsum.photos/seed/p19/400/250",
+      "imageHint": "water filter"
+    },
+    {
+      "id": "product-20",
+      "description": "Alkamedi 7000 ionizer.",
+      "imageUrl": "https://picsum.photos/seed/p20/400/250",
+      "imageHint": "water purifier"
+    },
+    {
+      "id": "product-21",
+      "description": "ZeroB Alkaline Craze ionizer.",
+      "imageUrl": "https://picsum.photos/seed/p21/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-22",
+      "description": "Medisoul Genesis Pro on display.",
+      "imageUrl": "https://picsum.photos/seed/p22/400/250",
+      "imageHint": "kitchen appliance"
+    },
+    {
+      "id": "product-23",
+      "description": "KYK Generation 3 machine.",
+      "imageUrl": "https://picsum.photos/seed/p23/400/250",
+      "imageHint": "water filter"
+    },
+    {
+      "id": "product-24",
+      "description": "Tyent H2 Hybrid ionizer.",
+      "imageUrl": "https://picsum.photos/seed/p24/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-25",
+      "description": "Enagic Super 501 heavy-duty ionizer.",
+      "imageUrl": "https://picsum.photos/seed/p25/400/250",
+      "imageHint": "water purifier"
+    },
+    {
+      "id": "product-26",
+      "description": "Life Ionizer Stream model.",
+      "imageUrl": "https://picsum.photos/seed/p26/400/250",
+      "imageHint": "water filter"
+    },
+    {
+      "id": "product-27",
+      "description": "Alkamedi LITE ionizer.",
+      "imageUrl": "https://picsum.photos/seed/p27/400/250",
+      "imageHint": "water ionizer"
+    },
+    {
+      "id": "product-28",
+      "description": "Medisoul Aqua Atom ionizer.",
+      "imageUrl": "https://picsum.photos/seed/p28/400/250",
+      "imageHint": "kitchen appliance"
+    },
+    {
+      "id": "brand-life-ionizers",
+      "description": "Life Ionizers Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1670026191138-76406f8a9179?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxMaWZlJTIwSW9uaXplcnMlMjBsb2dvfGVufDB8fHx8MTc1NzY2NTI2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo"
+    },
+    {
+      "id": "brand-mediqua",
+      "description": "Mediqua Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1617136041743-451cb49648b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8TWVkaXF1YSUyMGxvZ298ZW58MHx8fHwxNzU3NjY1MjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo"
+    },
+    {
+      "id": "brand-kyk",
+      "description": "KYK Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1637489981573-e45e9297cb21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxLWUslMjBsb2dvfGVufDB8fHx8MTc1NzY2NTI2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo"
+    },
+    {
+      "id": "brand-enagic",
+      "description": "Enagic Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1637489981573-e45e9297cb21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxFbmFnaWMlMjBsb2dvfGVufDB8fHx8MTc1NzY2NTI2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo"
+    },
+    {
+      "id": "brand-tyent",
+      "description": "Tyent Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1653499676737-becf2c9562c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxUeWVudCUyMGxvZ298ZW58MHx8fHwxNzU3NjY1MjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo"
+    },
+    {
+      "id": "brand-alkamedi",
+      "description": "Alkamedi Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1739055547874-4fe440a2bfea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxBbGthbWVkaSUyMGxvZ298ZW58MHx8fHwxNzU3NjY1MjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo"
+    },
+    {
+      "id": "brand-zerob",
+      "description": "ZeroB Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1734184123673-efb45e756039?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxaZXJvQiUyMGxvZ298ZW58MHx8fHwxNzU3NjY1MjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo"
+    },
+    {
+      "id": "brand-medisoul",
+      "description": "Medisoul Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1644035525244-893298c05355?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxNZWRpc291bCUyMGxvZ298ZW58MHx8fHwxNzU3NjY1MjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Avatar of Rohan Sharma",
+      "imageUrl": "https://picsum.photos/seed/rohan/48/48",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Avatar of Priya Desai",
+      "imageUrl": "https://picsum.photos/seed/priya/48/48",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Avatar of Amit Patel",
+      "imageUrl": "https://picsum.photos/seed/amit/48/48",
+      "imageHint": "man portrait"
+    },
+     {
+      "id": "testimonial-4",
+      "description": "Avatar of Sunita Nair",
+      "imageUrl": "https://picsum.photos/seed/sunita/48/48",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "testimonial-5",
+      "description": "Avatar of Vikram Singh",
+      "imageUrl": "https://picsum.photos/seed/vikram/48/48",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "testimonial-6",
+      "description": "Avatar of Anjali Rao",
+      "imageUrl": "https://picsum.photos/seed/anjali/48/48",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "science-diagram",
+      "description": "Diagram explaining a scientific concept",
+      "imageUrl": "https://picsum.photos/seed/diagram/500/300",
+      "imageHint": "diagram chart"
+    },
+    {
+      "id": "cert-iso-9001",
+      "description": "ISO 9001 Certification Logo",
+      "imageUrl": "https://picsum.photos/seed/iso9001/160/120",
+      "imageHint": "certification logo"
+    },
+    {
+      "id": "cert-ce",
+      "description": "CE Certification Logo",
+      "imageUrl": "https://picsum.photos/seed/celogo/160/120",
+      "imageHint": "certification logo"
+    },
+    {
+      "id": "cert-wqa",
+      "description": "Water Quality Association Logo",
+      "imageUrl": "https://picsum.photos/seed/wqa/160/120",
+      "imageHint": "certification logo"
+    },
+    {
+      "id": "cert-rohs",
+      "description": "RoHS Compliant Logo",
+      "imageUrl": "https://picsum.photos/seed/rohs/160/120",
+      "imageHint": "certification logo"
+    }
+  ]
+}
